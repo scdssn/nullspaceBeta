@@ -3,7 +3,7 @@
   --foreground-color: #eeeeee;
   --background-color: #000000;
   --highlight-color: #4554b2;
-  --border-color: #333131;
+  --border-color: #000000;
 
   --sn-component-foreground-color: var(--foreground-color);
   --sn-component-background-color: transparent;
@@ -35,15 +35,15 @@
 
   --sn-stylekit-background-color: var(--background-color);
   --sn-stylekit-foreground-color: var(--foreground-color);
-  --sn-stylekit-border-color: #262222;
+  --sn-stylekit-border-color: #000000;
 
   --sn-stylekit-contrast-background-color: #262222;
   --sn-stylekit-contrast-foreground-color: #ffffff;
-  --sn-stylekit-contrast-border-color: #474646;
+  --sn-stylekit-contrast-border-color: #000000;
 
   --sn-stylekit-secondary-background-color: #3f3c3c;
   --sn-stylekit-secondary-foreground-color: #ffffff;
-  --sn-stylekit-secondary-border-color: #3f3c3c;
+  --sn-stylekit-secondary-border-color: #000000;
 
   --sn-stylekit-secondary-contrast-background-color: #4c4949;
   --sn-stylekit-secondary-contrast-foreground-color: #ffffff;
