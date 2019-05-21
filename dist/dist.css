@@ -8,7 +8,7 @@
   --sn-component-foreground-highlight-color: var(--highlight-color);
   --sn-component-outer-border-color: transparent;
   --sn-component-inner-border-color: var(--foreground-color);
-  --sn-stylekit-shadow-color: #262222;
+  --sn-stylekit-shadow-color: #000000;
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-color);
   --sn-stylekit-neutral-color: #3f3c3c;
