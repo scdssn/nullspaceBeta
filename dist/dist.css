@@ -8,7 +8,7 @@
   --sn-component-foreground-highlight-color: var(--highlight-color);
   --sn-component-outer-border-color: transparent;
   --sn-component-inner-border-color: var(--foreground-color);
-  --sn-stylekit-shadow-color: #b52eba;
+  --sn-stylekit-shadow-color: #000000;
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-color);
   --sn-stylekit-neutral-color: #5b5b55;
@@ -24,7 +24,7 @@
   --sn-stylekit-background-color: var(--background-color);
   --sn-stylekit-foreground-color: var(--foreground-color);
   --sn-stylekit-border-color: #000000;
-  --sn-stylekit-contrast-background-color: #d1cb21;
+  --sn-stylekit-contrast-background-color: #000000;
   --sn-stylekit-contrast-foreground-color: #ffffff;
   --sn-stylekit-contrast-border-color: #000000;
   --sn-stylekit-secondary-background-color: #000000;
