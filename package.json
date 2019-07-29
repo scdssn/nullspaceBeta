@@ -1,6 +1,6 @@
 {
   "name": "Nullspace Beta",
-  "version": "2.5",
+  "version": "2.6",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
